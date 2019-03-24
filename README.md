@@ -4,7 +4,7 @@ This repository contains the coursework for the [Python for Data Science and Mac
 - [x] Course Introduction
 - [x] Environment Set-up
 - [x] Jupyter Overview
-- [ ] Python Crash Course
+- [x] Python Crash Course
 - [ ] Python for Data Analysis - NumPy
 - [ ] Python for Data Analysis - Pandas
 - [ ] Python for Data Analysis - Pandas Exercises
