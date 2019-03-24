@@ -1,0 +1,2 @@
+# Python for Data Science and Machine Learning
+This repository contains the coursework for the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview).
