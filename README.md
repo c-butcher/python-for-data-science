@@ -1,9 +1,9 @@
 # Python for Data Science and Machine Learning
 This repository contains the coursework for the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview).
 
-- [x] **Course Introduction** (24th May 2019)
-- [x] **Environment Set-up** (24th May 2019)
-- [x] **Jupyter Overview** (24th May 2019)
+- [x] Course Introduction
+- [x] Environment Set-up
+- [x] Jupyter Overview
 - [ ] Python Crash Course
 - [ ] Python for Data Analysis - NumPy
 - [ ] Python for Data Analysis - Pandas
