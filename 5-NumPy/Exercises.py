@@ -50,7 +50,7 @@ print(normalized)
 
 print()
 print('Create the following matrix.')
-matrix = np.arange(0, 1.01, 0.01)
+matrix = np.linspace(0.01, 1, 100).reshape(10, 10)
 print(matrix)
 
 
