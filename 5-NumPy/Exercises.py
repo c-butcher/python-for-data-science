@@ -38,6 +38,11 @@ print(identity)
 
 
 print()
+print('Use NumPy to generate a random number between 0 and 1')
+randint = np.random.rand(1)
+print(randint)
+
+print()
 print('Use NumPy to generate an array of 25 random numbers sampled from a standard normal distribution.')
 normalized = np.random.randn(25)
 print(normalized)
