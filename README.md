@@ -7,7 +7,7 @@ This repository contains the coursework for the [Python for Data Science and Mac
 - [x] Python Crash Course
 - [x] Python for Data Analysis - NumPy
 - [x] Python for Data Analysis - Pandas
-- [ ] Python for Data Analysis - Pandas Exercises
+- [x] Python for Data Analysis - Pandas Exercises
 - [ ] Python for Visualization - Matplotlib
 - [ ] Python for Visualization - Seaborn
 - [ ] Python for Visualization - Pandas Built-in Data Visualization
