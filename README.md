@@ -12,7 +12,7 @@ comfortable with it.
 - [x] Python for Data Analysis - NumPy
 - [x] Python for Data Analysis - Pandas
 - [x] Python for Data Analysis - Pandas Exercises
-- [ ] Python for Visualization - Matplotlib
+- [x] Python for Visualization - Matplotlib
 - [ ] Python for Visualization - Seaborn
 - [ ] Python for Visualization - Pandas Built-in Data Visualization
 - [ ] Python for Visualization - Plotly and Cufflinks
@@ -32,9 +32,16 @@ comfortable with it.
 - [ ] Big Data and Spark with Python
 - [ ] Neural Nets and Deep Learning
 
+### Documentation
+This course uses a variety of libraries, and you can view their documentation below.
+- [Python](https://docs.python.org/3/)
+- [NumPy](https://www.numpy.org/devdocs/reference/index.html)
+- [Pandas](http://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+- [Matplotlib](https://matplotlib.org/gallery/index.html)
+
 ### Data Websites
 If you need data for your project, or just to practice preparing, these websites have thousands of datasets
-that you can play you...
+that you can play with...
 
 - [Kaggle](https://kaggle.com/datasets)
 - [Quandl](https://www.quandl.com/search?filters=%5B%22Free%22%5D)
