@@ -1,7 +1,7 @@
 # Python for Data Science and Machine Learning
 This repository contains the coursework for the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview).
 The course uses Jupyter Notebooks, but I've chosen to use PyCharm, as I'll use it for future projects and want to become
-comfortable with it.
+more comfortable with it.
 
 
 ### Sections Completed
@@ -13,8 +13,8 @@ comfortable with it.
 - [x] Python for Data Analysis - Pandas
 - [x] Python for Data Analysis - Pandas Exercises
 - [x] Python for Visualization - Matplotlib
-- [ ] Python for Visualization - Seaborn
-- [ ] Python for Visualization - Pandas Built-in Data Visualization
+- [x] Python for Visualization - Seaborn
+- [x] Python for Visualization - Pandas Built-in Data Visualization
 - [ ] Python for Visualization - Plotly and Cufflinks
 - [ ] Python for Visualization - Geographical Plotting
 - [ ] Data Capstone Project
@@ -38,6 +38,7 @@ This course uses a variety of libraries, and you can view their documentation be
 - [NumPy](https://www.numpy.org/devdocs/reference/index.html)
 - [Pandas](http://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 - [Matplotlib](https://matplotlib.org/gallery/index.html)
+- [Seaborn](https://seaborn.pydata.org/api.html)
 
 ### Data Websites
 If you need data for your project, or just to practice preparing, these websites have thousands of datasets
