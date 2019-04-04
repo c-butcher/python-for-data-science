@@ -15,7 +15,7 @@ more comfortable with it.
 - [x] Python for Visualization - Matplotlib
 - [x] Python for Visualization - Seaborn
 - [x] Python for Visualization - Pandas Built-in Data Visualization
-- [ ] Python for Visualization - Plotly and Cufflinks
+- [x] Python for Visualization - Plotly and Cufflinks
 - [ ] Python for Visualization - Geographical Plotting
 - [ ] Data Capstone Project
 - [ ] Introduction to Machine Learning
@@ -39,6 +39,8 @@ This course uses a variety of libraries, and you can view their documentation be
 - [Pandas](http://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 - [Matplotlib](https://matplotlib.org/gallery/index.html)
 - [Seaborn](https://seaborn.pydata.org/api.html)
+- [Plotly](https://plot.ly/python/)
+- [Cufflinks](https://plot.ly/ipython-notebooks/cufflinks/)
 
 ### Data Websites
 If you need data for your project, or just to practice preparing, these websites have thousands of datasets
