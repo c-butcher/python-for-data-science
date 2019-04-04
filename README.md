@@ -16,7 +16,7 @@ more comfortable with it.
 - [x] Python for Visualization - Seaborn
 - [x] Python for Visualization - Pandas Built-in Data Visualization
 - [x] Python for Visualization - Plotly and Cufflinks
-- [ ] Python for Visualization - Geographical Plotting
+- [x] Python for Visualization - Geographical Plotting
 - [ ] Data Capstone Project
 - [ ] Introduction to Machine Learning
 - [ ] Linear Regression
