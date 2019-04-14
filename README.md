@@ -3,7 +3,6 @@ This repository contains the coursework for the [Python for Data Science and Mac
 The course uses Jupyter Notebooks, but I've chosen to use PyCharm, as I'll use it for future projects and want to become
 more comfortable with it.
 
-
 ### Sections Completed
 - [x] Course Introduction
 - [x] Environment Set-up
@@ -17,11 +16,11 @@ more comfortable with it.
 - [x] Python for Visualization - Pandas Built-in Data Visualization
 - [x] Python for Visualization - Plotly and Cufflinks
 - [x] Python for Visualization - Geographical Plotting
-- [ ] Data Capstone Project
-- [ ] Introduction to Machine Learning
-- [ ] Linear Regression
-- [ ] Cross Validation and Bias Variance Trade-Off
-- [ ] Logistic Regression
+- [x] Data Capstone Project
+- [x] Introduction to Machine Learning
+- [x] Linear Regression
+- [x] Cross Validation and Bias Variance Trade-Off
+- [x] Logistic Regression
 - [ ] K-Nearest Neighbor
 - [ ] Decision Trees and Random Forests
 - [ ] Support Vector Machines
@@ -41,6 +40,7 @@ This course uses a variety of libraries, and you can view their documentation be
 - [Seaborn](https://seaborn.pydata.org/api.html)
 - [Plotly](https://plot.ly/python/)
 - [Cufflinks](https://plot.ly/ipython-notebooks/cufflinks/)
+- [Sci-Kit Learn](https://scikit-learn.org/stable/documentation.html)
 
 ### Data Websites
 If you need data for your project, or just to practice preparing, these websites have thousands of datasets
