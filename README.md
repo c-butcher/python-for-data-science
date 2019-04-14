@@ -21,7 +21,7 @@ more comfortable with it.
 - [x] Linear Regression
 - [x] Cross Validation and Bias Variance Trade-Off
 - [x] Logistic Regression
-- [ ] K-Nearest Neighbor
+- [x] K-Nearest Neighbor
 - [ ] Decision Trees and Random Forests
 - [ ] Support Vector Machines
 - [ ] K-Means Clustering
