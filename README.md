@@ -22,7 +22,7 @@ more comfortable with it.
 - [x] Cross Validation and Bias Variance Trade-Off
 - [x] Logistic Regression
 - [x] K-Nearest Neighbor
-- [ ] Decision Trees and Random Forests
+- [x] Decision Trees and Random Forests
 - [ ] Support Vector Machines
 - [ ] K-Means Clustering
 - [ ] Principal Component Analysis
