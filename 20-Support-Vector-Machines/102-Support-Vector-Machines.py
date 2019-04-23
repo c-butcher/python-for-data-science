@@ -1,7 +1,4 @@
-import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import sklearn.svm as sks
 import sklearn.model_selection as ms
 import sklearn.metrics as skm
